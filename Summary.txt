@@ -1,4 +1,4 @@
 A simple implementation of Vulkan, version 2. 
 
-Should make a square, of alternating colors, using the shaders included in the repository.
+Should make an object, of alternating colors, using the shaders included in the repository.
 Make sure to compile as a .bat file.
